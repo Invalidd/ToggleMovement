@@ -1,0 +1,9 @@
+
+{
+  "uuid": "%uuid%",
+  "name": "Toggle Movement",
+  "mainClass": "com.invalid.movement.ToggleMovement",
+  "description": "Toggle sneak/sprint with an assigned key.",
+  "version": 1,
+  "author": "xInvalid"
+}
